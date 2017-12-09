@@ -18,6 +18,8 @@ In Folge 0 geht es erstmal darum zu erklären warum ich das überhaupt tue, aus 
 
 Links:
 
-- 
+- [Buchtipp: The Managers Path](https://www.amazon.de/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=sr_1_1?ie=UTF8&qid=1512825365&sr=8-1&keywords=managers+path)
+- [Buchtipp: Drive: The Surprising Truth About What Motivates Us](https://www.amazon.de/Drive-Daniel-H-Pink/dp/184767769X)
+- [beste Beratungsfirma der Welt, mindestens](http://www.codecentric.de)
 
 Datum der Aufnahme: 03.12.2017
