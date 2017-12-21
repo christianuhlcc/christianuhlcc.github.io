@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://localhost:4000/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://localhost:4000</link>
 <description>Regelmäßiger Podcast rund um die Erfahrungen von Christian in seiner neuen Rolle als Head of Engineering.</description>
-<lastBuildDate>Sat, 09 Dec 2017 14:25:05 +0100</lastBuildDate>
+<lastBuildDate>Thu, 21 Dec 2017 21:33:32 +0100</lastBuildDate>
 <language>de-DE</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -36,6 +36,47 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </image>
 <itunes:category text="Technology" />
 <copyright>Creative Commons Attribution-ShareAlike 3.0 Unported</copyright>
+
+  <item>
+    <title>Folge 1: Steig ein</title>
+    <link>http://localhost:4000/1/</link>
+    <comments>http://localhost:4000/1/#comments</comments>
+    <pubDate>Thu, 21 Dec 2017 19:00:10 +0100</pubDate>
+    <dc:creator><![CDATA[]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <guid isPermaLink="true">http://localhost:4000/1/</guid>
+    <description>
+        <![CDATA[Recruiting, warum es schwierig ist keine Technik mehr zu machen, und wie man Interviews führen kann.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Recruiting, warum es schwierig ist keine Technik mehr zu machen, und wie man Interviews führen kann.</p>
+
+<p>Wir reden darüber wie ich mein Team aufgebaut habe, und was eigentlich ein gutes Interview ausmacht. Aussserdem viele gelernte Lektionen was man beim Interviewprozess falsch machen kann. Ausserdem, was macht man denn, wenn man keinen Code mehr schreiben kann?</p>
+
+<p>Datum der Aufnahme: 21.12.2017</p>
+]]>
+    </content:encoded>
+
+    <enclosure url="https://s3.us-east-2.amazonaws.com/christianuhlcc.github.io/episodes/Podcast_Folge_1.mp3" length="51649432" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Recruiting, warum es schwierig ist keine Technik mehr zu machen, und wie man Interviews führen kann.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Recruiting, warum es schwierig ist keine Technik mehr zu machen, und wie man Interviews führen kann.</p>
+
+<p>Wir reden darüber wie ich mein Team aufgebaut habe, und was eigentlich ein gutes Interview ausmacht. Aussserdem viele gelernte Lektionen was man beim Interviewprozess falsch machen kann. Ausserdem, was macht man denn, wenn man keinen Code mehr schreiben kann?</p>
+
+<p>Datum der Aufnahme: 21.12.2017</p>
+]]></itunes:summary>
+    <itunes:author>Christian Uhl</itunes:author>
+    <itunes:image href="http://localhost:4000/assets/images/logo_1400x1400.png" />
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:duration>35:52</itunes:duration>
+  </item>
 
   <item>
     <title>Folge 0: Wo sind wir jetzt?</title>
