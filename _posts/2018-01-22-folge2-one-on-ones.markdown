@@ -13,6 +13,7 @@ podcast_length:  38950160
 
 Wir sprechen heute über One on Ones, ein Format bei dem sich, simpel gesagt, der Vorgesetzte mit dem Mitarbeiter unter vier Augen unterhalten. Ich glaube diese "One on Ones" sind unglaublich wichtig und wertvoll. Wir finden raus warum ich das glaube, und was ich aus den One on Ones mitnehme. Es geht viel darum was ein gutes One on One ausmacht. Was gibt es für Gesprächsstrategien und warum ist der mächtigste Satz die Pause? 
 
+Feedback ist ausdrücklich erwünscht! Wie macht ihr One on Ones? Wie erlebt ihr sie als Mitarbeiter? Kommentare bitte an uhl.christian@googlemail.com, ich freu mich über jeden!
 
 Links:
 
