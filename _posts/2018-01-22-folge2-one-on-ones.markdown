@@ -18,7 +18,7 @@ Feedback ist ausdrücklich erwünscht! Wie macht ihr One on Ones? Wie erlebt ihr
 Links:
 
 - [Buchtipp (nochmal): The Managers Path](https://www.amazon.de/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=sr_1_1?ie=UTF8&qid=1512825365&sr=8-1&keywords=managers+path)
-- [Benjamin Reizammer über One on Ones](https://squeakyvessel.com/2015/05/21/1on1-purpose-goals/)
-- [Benjamin Reizammer über One on Ones (2)](https://squeakyvessel.com/2015/09/09/1on1-structure/)
+- [Benjamin Reitzammer über One on Ones](https://squeakyvessel.com/2015/05/21/1on1-purpose-goals/)
+- [Benjamin Reitzammer über One on Ones (2)](https://squeakyvessel.com/2015/09/09/1on1-structure/)
 
 Datum der Aufnahme: 21.1.2018
