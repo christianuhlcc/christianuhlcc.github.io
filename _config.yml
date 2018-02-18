@@ -17,7 +17,7 @@ title: "uhl,steine,scherben"
 email: "uhl.christian@googlemail.com"
 description: "uhl, steine scherben ist ein Podcast über die Erfahrungen von Christian in der Rolle eines Head of Engineering"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://christianuhlcc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://uhl-steine-scherben.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chrisuhl
 github_username:  christianuhlcc
 header_image: /assets/images/autoweirdfm_logo_269x100_lightbg.png
@@ -34,6 +34,8 @@ podcast_author: "Christian Uhl"
 podcast_description: Regelmäßiger Podcast rund um die Erfahrungen von Christian in seiner neuen Rolle als Head of Engineering.
 podcast_summary: Christian wird von Victor zu verschiedensten Themen und Problemen aus seinem Berufsalltag interviewed
 podcast_subtitle: plötzlich Manager, was tun?
+
+url: "https://uhl-steine-scherben.org"
 
 # Build settings
 markdown: kramdown
