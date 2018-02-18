@@ -38,10 +38,9 @@ podcast_subtitle: plötzlich Manager, was tun?
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
-gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
 plugins:
   - jekyll-sitemap
+  - jekyll-feed 

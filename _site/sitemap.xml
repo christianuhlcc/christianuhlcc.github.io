@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/0/</loc>
+<lastmod>2017-12-03T12:00:10+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/1/</loc>
+<lastmod>2017-12-21T19:00:10+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2/</loc>
+<lastmod>2018-01-22T19:00:10+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/3/</loc>
+<lastmod>2018-02-04T19:00:10+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/4/</loc>
+<lastmod>2018-02-04T19:00:10+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/googlec307861313ea26e0.html</loc>
+<lastmod>2018-02-18T19:22:46+01:00</lastmod>
+</url>
+</urlset>
