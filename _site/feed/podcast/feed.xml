@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://localhost:4000/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://localhost:4000</link>
 <description>Regelmäßiger Podcast rund um die Erfahrungen von Christian in seiner neuen Rolle als Head of Engineering.</description>
-<lastBuildDate>Thu, 21 Dec 2017 21:33:32 +0100</lastBuildDate>
+<lastBuildDate>Sun, 18 Feb 2018 19:20:07 +0100</lastBuildDate>
 <language>de-DE</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,137 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <copyright>Creative Commons Attribution-ShareAlike 3.0 Unported</copyright>
 
   <item>
+    <title>Folge 4: Probleme? Klar doch!</title>
+    <link>http://localhost:4000/4/</link>
+    <comments>http://localhost:4000/4/#comments</comments>
+    <pubDate>Sun, 04 Feb 2018 19:00:10 +0100</pubDate>
+    <dc:creator><![CDATA[]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <guid isPermaLink="true">http://localhost:4000/4/</guid>
+    <description>
+        <![CDATA[Es läuft ja alles rosig, wenn man sich meinen Podcast so anhört, oder? Stimmt natürlich nicht, es gibt auch genug unangenehme Ereignisse, mit denen ich mich beschäftigen muss. Was schief läuft ist bestimmt auch interessant für die Zuhörerschaft! Wir picken uns mal die dringendsten heraus: Es gibt auch unangenehme Themen...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Es läuft ja alles rosig, wenn man sich meinen Podcast so anhört, oder? Stimmt natürlich nicht, es gibt auch genug unangenehme Ereignisse, mit denen ich mich beschäftigen muss. Was schief läuft ist bestimmt auch interessant für die Zuhörerschaft! Wir picken uns mal die dringendsten heraus: Es gibt auch unangenehme Themen beim One on One zu besprechen (das teasern wir nur an), Ich sehe auf einmal überraschend Silobildung im Team, gegen die ich ganz dringend was tun muss, und ZACK! Das Team hat seine erste Deadline von aussen bekommen. Wie gehen wir denn damit jetzt um?</p>
+
+<p>Feedback gerne wieder an uhl.christian@googlemail.com</p>
+
+<p>Datum der Aufnahme: 18.02.2018</p>
+]]>
+    </content:encoded>
+
+    <enclosure url="https://s3.us-east-2.amazonaws.com/christianuhlcc.github.io/episodes/Podcast_Folge_4.mp3" length="53742782" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Es läuft ja alles rosig, wenn man sich meinen Podcast so anhört, oder? Stimmt natürlich nicht, es gibt auch genug unangenehme Ereignisse, mit denen ich mich beschäftigen muss. Was schief läuft ist bestimmt auch interessant für die Zuhörerschaft! Wir picken uns mal die dringendsten heraus: Es gibt auch unangenehme Themen...]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Es läuft ja alles rosig, wenn man sich meinen Podcast so anhört, oder? Stimmt natürlich nicht, es gibt auch genug unangenehme Ereignisse, mit denen ich mich beschäftigen muss. Was schief läuft ist bestimmt auch interessant für die Zuhörerschaft! Wir picken uns mal die dringendsten heraus: Es gibt auch unangenehme Themen beim One on One zu besprechen (das teasern wir nur an), Ich sehe auf einmal überraschend Silobildung im Team, gegen die ich ganz dringend was tun muss, und ZACK! Das Team hat seine erste Deadline von aussen bekommen. Wie gehen wir denn damit jetzt um?</p>
+
+<p>Feedback gerne wieder an uhl.christian@googlemail.com</p>
+
+<p>Datum der Aufnahme: 18.02.2018</p>
+]]></itunes:summary>
+    <itunes:author>Christian Uhl</itunes:author>
+    <itunes:image href="http://localhost:4000/assets/images/logo_1400x1400.png" />
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:duration>27:59</itunes:duration>
+  </item>
+
+  <item>
+    <title>Folge 3: Dashboards</title>
+    <link>http://localhost:4000/3/</link>
+    <comments>http://localhost:4000/3/#comments</comments>
+    <pubDate>Sun, 04 Feb 2018 19:00:10 +0100</pubDate>
+    <dc:creator><![CDATA[]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <guid isPermaLink="true">http://localhost:4000/3/</guid>
+    <description>
+        <![CDATA[Wir sprechen heute über Dashboards - Eine Möglichkeit relativ beliebige Informationen auf grossen Displays darzustellen. In fast jedem Büro hängt ein Flachbildschirm mit schönen Tortengrafiken an der Wand, aber keiner schaut hin - Warum sind mir Dashboards also so wichtig? Welche Informationen kann man mit Dashboards vermitteln, und welche Effekte...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Wir sprechen heute über Dashboards - Eine Möglichkeit relativ beliebige Informationen auf grossen Displays darzustellen. In fast jedem Büro hängt ein Flachbildschirm mit schönen Tortengrafiken an der Wand, aber keiner schaut hin - Warum sind mir Dashboards also so wichtig? Welche Informationen kann man mit Dashboards vermitteln, und welche Effekte will ich damit erzielen?</p>
+
+<p>Bonusthema: Feedback zu den One on Ones vom letzen mal. Wie kann man One on Ones skalieren?</p>
+
+<p>Feedback gerne wieder an uhl.christian@googlemail.com</p>
+
+<p>Datum der Aufnahme: 04.02.2018</p>
+]]>
+    </content:encoded>
+
+    <enclosure url="https://s3.us-east-2.amazonaws.com/christianuhlcc.github.io/episodes/Podcast_Folge_3.mp3" length="55502391" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Wir sprechen heute über Dashboards - Eine Möglichkeit relativ beliebige Informationen auf grossen Displays darzustellen. In fast jedem Büro hängt ein Flachbildschirm mit schönen Tortengrafiken an der Wand, aber keiner schaut hin - Warum sind mir Dashboards also so wichtig? Welche Informationen kann man mit Dashboards vermitteln, und welche Effekte...]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Wir sprechen heute über Dashboards - Eine Möglichkeit relativ beliebige Informationen auf grossen Displays darzustellen. In fast jedem Büro hängt ein Flachbildschirm mit schönen Tortengrafiken an der Wand, aber keiner schaut hin - Warum sind mir Dashboards also so wichtig? Welche Informationen kann man mit Dashboards vermitteln, und welche Effekte will ich damit erzielen?</p>
+
+<p>Bonusthema: Feedback zu den One on Ones vom letzen mal. Wie kann man One on Ones skalieren?</p>
+
+<p>Feedback gerne wieder an uhl.christian@googlemail.com</p>
+
+<p>Datum der Aufnahme: 04.02.2018</p>
+]]></itunes:summary>
+    <itunes:author>Christian Uhl</itunes:author>
+    <itunes:image href="http://localhost:4000/assets/images/logo_1400x1400.png" />
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:duration>28:54</itunes:duration>
+  </item>
+
+  <item>
+    <title>Folge 2: One on Ones</title>
+    <link>http://localhost:4000/2/</link>
+    <comments>http://localhost:4000/2/#comments</comments>
+    <pubDate>Mon, 22 Jan 2018 19:00:10 +0100</pubDate>
+    <dc:creator><![CDATA[]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <guid isPermaLink="true">http://localhost:4000/2/</guid>
+    <description>
+        <![CDATA[Wir sprechen heute über One on Ones, ein Format bei dem sich, simpel gesagt, der Vorgesetzte mit dem Mitarbeiter unter vier Augen unterhalten. Ich glaube diese “One on Ones” sind unglaublich wichtig und wertvoll. Wir finden raus warum ich das glaube, und was ich aus den One on Ones mitnehme....]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Wir sprechen heute über One on Ones, ein Format bei dem sich, simpel gesagt, der Vorgesetzte mit dem Mitarbeiter unter vier Augen unterhalten. Ich glaube diese “One on Ones” sind unglaublich wichtig und wertvoll. Wir finden raus warum ich das glaube, und was ich aus den One on Ones mitnehme. Es geht viel darum was ein gutes One on One ausmacht. Was gibt es für Gesprächsstrategien und warum ist der mächtigste Satz die Pause?</p>
+
+<p>Feedback ist ausdrücklich erwünscht! Wie macht ihr One on Ones? Wie erlebt ihr sie als Mitarbeiter? Kommentare bitte an uhl.christian@googlemail.com, ich freu mich über jeden!</p>
+
+<p>Links:</p>
+
+<ul>
+  <li><a href="https://www.amazon.de/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=sr_1_1?ie=UTF8&amp;qid=1512825365&amp;sr=8-1&amp;keywords=managers+path">Buchtipp (nochmal): The Managers Path</a></li>
+  <li><a href="https://squeakyvessel.com/2015/05/21/1on1-purpose-goals/">Benjamin Reitzammer über One on Ones</a></li>
+  <li><a href="https://squeakyvessel.com/2015/09/09/1on1-structure/">Benjamin Reitzammer über One on Ones (2)</a></li>
+</ul>
+
+<p>Datum der Aufnahme: 21.1.2018</p>
+]]>
+    </content:encoded>
+
+    <enclosure url="https://s3.us-east-2.amazonaws.com/christianuhlcc.github.io/episodes/Podcast_Folge_2.mp3" length="38950160" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Wir sprechen heute über One on Ones, ein Format bei dem sich, simpel gesagt, der Vorgesetzte mit dem Mitarbeiter unter vier Augen unterhalten. Ich glaube diese “One on Ones” sind unglaublich wichtig und wertvoll. Wir finden raus warum ich das glaube, und was ich aus den One on Ones mitnehme....]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Wir sprechen heute über One on Ones, ein Format bei dem sich, simpel gesagt, der Vorgesetzte mit dem Mitarbeiter unter vier Augen unterhalten. Ich glaube diese “One on Ones” sind unglaublich wichtig und wertvoll. Wir finden raus warum ich das glaube, und was ich aus den One on Ones mitnehme. Es geht viel darum was ein gutes One on One ausmacht. Was gibt es für Gesprächsstrategien und warum ist der mächtigste Satz die Pause?</p>
+
+<p>Feedback ist ausdrücklich erwünscht! Wie macht ihr One on Ones? Wie erlebt ihr sie als Mitarbeiter? Kommentare bitte an uhl.christian@googlemail.com, ich freu mich über jeden!</p>
+
+<p>Links:</p>
+
+<ul>
+  <li><a href="https://www.amazon.de/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/ref=sr_1_1?ie=UTF8&amp;qid=1512825365&amp;sr=8-1&amp;keywords=managers+path">Buchtipp (nochmal): The Managers Path</a></li>
+  <li><a href="https://squeakyvessel.com/2015/05/21/1on1-purpose-goals/">Benjamin Reitzammer über One on Ones</a></li>
+  <li><a href="https://squeakyvessel.com/2015/09/09/1on1-structure/">Benjamin Reitzammer über One on Ones (2)</a></li>
+</ul>
+
+<p>Datum der Aufnahme: 21.1.2018</p>
+]]></itunes:summary>
+    <itunes:author>Christian Uhl</itunes:author>
+    <itunes:image href="http://localhost:4000/assets/images/logo_1400x1400.png" />
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:duration>27:03</itunes:duration>
+  </item>
+
+  <item>
     <title>Folge 1: Steig ein</title>
     <link>http://localhost:4000/1/</link>
     <comments>http://localhost:4000/1/#comments</comments>
@@ -49,12 +180,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <guid isPermaLink="true">http://localhost:4000/1/</guid>
     <description>
-        <![CDATA[Recruiting, warum es schwierig ist keine Technik mehr zu machen, und wie man Interviews führen kann.
+        <![CDATA[Recruiting, gute Interviews führen, und warum es schwierig ist keine Technik mehr zu machen.
 
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>Recruiting, warum es schwierig ist keine Technik mehr zu machen, und wie man Interviews führen kann.</p>
+        <![CDATA[<p>Recruiting, gute Interviews führen, und warum es schwierig ist keine Technik mehr zu machen.</p>
 
 <p>Wir reden darüber wie ich mein Team aufgebaut habe, und was eigentlich ein gutes Interview ausmacht. Aussserdem viele gelernte Lektionen was man beim Interviewprozess falsch machen kann. Ausserdem, was macht man denn, wenn man keinen Code mehr schreiben kann?</p>
 
@@ -63,10 +194,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </content:encoded>
 
     <enclosure url="https://s3.us-east-2.amazonaws.com/christianuhlcc.github.io/episodes/Podcast_Folge_1.mp3" length="51649432" type="audio/mpeg" />
-    <itunes:subtitle><![CDATA[Recruiting, warum es schwierig ist keine Technik mehr zu machen, und wie man Interviews führen kann.
+    <itunes:subtitle><![CDATA[Recruiting, gute Interviews führen, und warum es schwierig ist keine Technik mehr zu machen.
 
 ]]></itunes:subtitle>
-    <itunes:summary><![CDATA[<p>Recruiting, warum es schwierig ist keine Technik mehr zu machen, und wie man Interviews führen kann.</p>
+    <itunes:summary><![CDATA[<p>Recruiting, gute Interviews führen, und warum es schwierig ist keine Technik mehr zu machen.</p>
 
 <p>Wir reden darüber wie ich mein Team aufgebaut habe, und was eigentlich ein gutes Interview ausmacht. Aussserdem viele gelernte Lektionen was man beim Interviewprozess falsch machen kann. Ausserdem, was macht man denn, wenn man keinen Code mehr schreiben kann?</p>
 
