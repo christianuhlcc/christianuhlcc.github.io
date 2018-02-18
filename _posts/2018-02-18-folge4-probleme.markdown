@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Folge 4: Probleme? Klar doch!"
-date:   2018-02-4 19:00:10 +0100
+date:   2018-02-18 19:00:10 +0100
 categories: podcast
 permalink: /4/
 image: /assets/images/logo_1400x100.png
