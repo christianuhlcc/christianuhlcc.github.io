@@ -35,7 +35,7 @@ podcast_description: Regelmäßiger Podcast rund um die Erfahrungen von Christia
 podcast_summary: Christian wird von Victor zu verschiedensten Themen und Problemen aus seinem Berufsalltag interviewed
 podcast_subtitle: plötzlich Manager, was tun?
 
-url: "https://uhl-steine-scherben.org"
+url: "http://uhl-steine-scherben.org"
 
 # Build settings
 markdown: kramdown
