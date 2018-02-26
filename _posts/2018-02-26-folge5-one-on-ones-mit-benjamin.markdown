@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Folge 5: One one Ones mit Benjamin Reitzammer"
+title:  "Folge 5: One on Ones mit Benjamin Reitzammer"
 date:   2018-02-26 12:00:10 +0100
 categories: podcast
 permalink: /5/
