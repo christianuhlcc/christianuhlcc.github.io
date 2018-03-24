@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Folge 6: Die erste Kündigung"
 date:   2018-03-24 12:00:10 +0100
 categories: podcast

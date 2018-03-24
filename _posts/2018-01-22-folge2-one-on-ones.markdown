@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Folge 2: One on Ones"
 date:   2018-01-22 19:00:10 +0100
 categories: podcast

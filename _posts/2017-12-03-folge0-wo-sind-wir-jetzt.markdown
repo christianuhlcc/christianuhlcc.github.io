@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Folge 0: Wo sind wir jetzt?"
 date:   2017-12-03 12:00:10 +0100
 categories: podcast

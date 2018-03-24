@@ -39,7 +39,33 @@ url: "http://uhl-steine-scherben.org"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Theme settings
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      author_profile: true
+
+# Site Author
+author:
+  name             : "Christian Uhl"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "Developer, craftsperson and occasional idiot. Head of Engineering at Matmatch. Endurance runner, climber and cyclist. codecentric alumni"
+  location         : "München"
+  github           : "christianuhlcc"
+  linkedin         : "christian-uhl-957a61151"
+  twitter          : "chrisuhl"
+  xing             : "https://www.xing.com/profile/Christian_Uhl14"
+
 exclude:
   - Gemfile
   - Gemfile.lock

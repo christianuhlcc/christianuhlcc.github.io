@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Folge 3: Dashboards"
 date:   2018-02-4 19:00:10 +0100
 categories: podcast

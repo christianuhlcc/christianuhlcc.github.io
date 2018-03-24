@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Folge 1: Steig ein"
 date:   2017-12-21 19:00:10 +0100
 categories: podcast

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Folge 4.1: Probleme? Klar doch!"
 date:   2018-02-19 19:00:10 +0100
 categories: podcast
