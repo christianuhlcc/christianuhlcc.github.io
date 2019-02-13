@@ -72,3 +72,4 @@ exclude:
 plugins:
   - jekyll-sitemap
   - jekyll-feed 
+  - jekyll-include-cache
