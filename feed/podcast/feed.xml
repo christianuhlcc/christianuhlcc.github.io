@@ -36,12 +36,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <title>{{ site.podcast_title }}</title>
 <url>{{ site.url }}{{ site.podcast_album_art }}</url>
 <link>{{ site.url }}</link>
+<email>{{ site.podcast_email }}</email>
+<podcast_email>{{ site.podcast_email }}</podcast_email>
 </image>
 <itunes:category text="{{ site.podcast_category }}" />
 <copyright>Creative Commons Attribution-ShareAlike 3.0 Unported</copyright>
 {% for ep in site.categories.podcast %}
   <item>
     <title>{{ ep.title }}</title>
+    <itunes:episode>{{ ep.itunes_episode}}</itunes:episode>
     <link>{{ site.url }}{{ ep.url }}</link>
     <comments>{{ site.url }}{{ ep.url }}#comments</comments>
     <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
