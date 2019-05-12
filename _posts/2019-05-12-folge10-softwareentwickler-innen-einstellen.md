@@ -12,7 +12,7 @@ podcast_length:  83321755
 itunes_episode: 10
 ---
 
-Heute mit Sondergast Jochen [Joschi auf Twitter](https://twitter.com/joschi83/), Teamlead bei [Holidu](https://www.holidu.de/). Wir sprechen über Hiring: 
+Heute mit Sondergast [Jochen](https://twitter.com/joschi83/), Teamlead bei [Holidu](https://www.holidu.de/). Wir sprechen über Hiring: 
 * Wie findet man fähige Entwickler und Entwicklerinnen? 
 * Wie macht man gute Interviews die fair sind? 
 * Wie geht man gut mit internationalem Publikum und Visaproblemen um? 
