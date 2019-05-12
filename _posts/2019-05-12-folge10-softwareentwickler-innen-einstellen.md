@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Softwareentwickeler&ast;Innen einstellen"
+title:  "Einstellen? Erst mal finden!"
 date:   2019-05-12 12:00:10 +0100
 categories: podcast
 permalink: /10/
@@ -13,7 +13,7 @@ itunes_episode: 10
 ---
 
 Heute mit Sondergast Jochen [Joschi auf Twitter](https://twitter.com/joschi83/), Teamlead bei [Holidu](https://www.holidu.de/). Wir sprechen über Hiring: 
-* Wie findet man fähige Entwickler&ast;Innen? 
+* Wie findet man fähige Entwickler und Entwicklerinnen? 
 * Wie macht man gute Interviews die fair sind? 
 * Wie geht man gut mit internationalem Publikum und Visaproblemen um? 
 * Wie stellt man seine Firma gut da?
