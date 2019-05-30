@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Folge 11: Remote Arbeiten"
+title:  "Remote Arbeiten"
 date:   2019-05-30 19:00:10 +0100
 categories: podcast
 permalink: /11/
