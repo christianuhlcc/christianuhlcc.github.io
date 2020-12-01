@@ -14,4 +14,4 @@ podcast_length:  56880820
 
 Dieser Podcast hat ein würdigeres Ende verdient als einfach nicht mehr zu erscheinen - Daher hat sich Victor aus der Frührente gequält, und wir haben einen schönen Abschluss für diese Podcast-Reihe gefunden. 
 
-Danke und machts gut  <3
+Danke und macht's gut  <3
