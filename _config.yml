@@ -55,16 +55,21 @@ defaults:
       related: true
       author_profile: true
 
+main:
+  - title: "Blog"
+    url: /blog/
+
 # Site Author
 author:
   name             : "Christian Uhl"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Developer, craftsperson and occasional idiot. Head of Engineering at Matmatch. Endurance runner, climber and cyclist. codecentric alumni"
+  bio              : "Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist."
   location         : "München"
   github           : "christianuhlcc"
   linkedin         : "christian-uhl-957a61151"
   twitter          : "chrisuhl"
   xing             : "https://www.xing.com/profile/Christian_Uhl14"
+  link             : "https://uhl-steine-scherben.org/blog"
 
 exclude:
   - Gemfile
