@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://localhost:4000/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://localhost:4000</link>
 <description>Regelmäßiger Podcast rund um die Erfahrungen von Christian in seiner neuen Rolle als Head of Engineering.</description>
-<lastBuildDate>Mon, 06 Feb 2023 21:22:19 +0100</lastBuildDate>
+<lastBuildDate>Mon, 06 Feb 2023 21:34:54 +0100</lastBuildDate>
 <language>de-DE</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
