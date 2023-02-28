@@ -20,7 +20,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uhl-steine-scherben.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chrisuhl
 github_username:  christianuhlcc
-header_image: /assets/images/autoweirdfm_logo_269x100_lightbg.png
 
 # Podcast rss feed configuration
 podcast_url: https://christianuhlcc.github.io
@@ -58,7 +57,7 @@ defaults:
 # Site Author
 author:
   name             : "Christian Uhl"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : "/assets/images/avatar.webp"
   bio              : "Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist."
   location         : "München"
   github           : "christianuhlcc"

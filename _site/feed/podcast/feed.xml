@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://localhost:4000/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://localhost:4000</link>
 <description>Regelmäßiger Podcast rund um die Erfahrungen von Christian in seiner neuen Rolle als Head of Engineering.</description>
-<lastBuildDate>Tue, 28 Feb 2023 19:39:19 +0100</lastBuildDate>
+<lastBuildDate>Tue, 28 Feb 2023 21:26:07 +0100</lastBuildDate>
 <language>de-DE</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -45,7 +45,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://localhost:4000/15/</link>
     <comments>http://localhost:4000/15/#comments</comments>
     <pubDate>Tue, 01 Dec 2020 19:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -83,7 +83,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://localhost:4000/14/</link>
     <comments>http://localhost:4000/14/#comments</comments>
     <pubDate>Fri, 13 Dec 2019 19:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -141,7 +141,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://localhost:4000/13/</link>
     <comments>http://localhost:4000/13/#comments</comments>
     <pubDate>Sun, 01 Dec 2019 19:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -189,7 +189,7 @@ Diskutiert habe ich mit meiner früheren Kollegin Agnes (https://twitter.com/spi
     <link>http://localhost:4000/12/</link>
     <comments>http://localhost:4000/12/#comments</comments>
     <pubDate>Mon, 24 Jun 2019 20:00:10 +0200</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -261,7 +261,7 @@ Diskutiert habe ich mit meiner früheren Kollegin Agnes (https://twitter.com/spi
     <link>http://localhost:4000/11/</link>
     <comments>http://localhost:4000/11/#comments</comments>
     <pubDate>Thu, 30 May 2019 20:00:10 +0200</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -319,7 +319,7 @@ Diskutiert habe ich mit meiner früheren Kollegin Agnes (https://twitter.com/spi
     <link>http://localhost:4000/10/</link>
     <comments>http://localhost:4000/10/#comments</comments>
     <pubDate>Sun, 12 May 2019 13:00:10 +0200</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -385,7 +385,7 @@ Diskutiert habe ich mit meiner früheren Kollegin Agnes (https://twitter.com/spi
     <link>http://localhost:4000/9/</link>
     <comments>http://localhost:4000/9/#comments</comments>
     <pubDate>Sun, 10 Mar 2019 12:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -427,7 +427,7 @@ Diskutiert habe ich mit meiner früheren Kollegin Agnes (https://twitter.com/spi
     <link>http://localhost:4000/8/</link>
     <comments>http://localhost:4000/8/#comments</comments>
     <pubDate>Sun, 10 Feb 2019 12:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -481,7 +481,7 @@ Diskutiert habe ich mit meiner früheren Kollegin Agnes (https://twitter.com/spi
     <link>http://localhost:4000/7/</link>
     <comments>http://localhost:4000/7/#comments</comments>
     <pubDate>Sun, 08 Jul 2018 13:00:10 +0200</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -537,7 +537,7 @@ Diskutiert habe ich mit meiner früheren Kollegin Agnes (https://twitter.com/spi
     <link>http://localhost:4000/6/</link>
     <comments>http://localhost:4000/6/#comments</comments>
     <pubDate>Sat, 24 Mar 2018 12:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -577,7 +577,7 @@ Mein erster Mitarbeiter hat mir gekündigt! Keine angenehme Erfahrung, glaubt mi
     <link>http://localhost:4000/5/</link>
     <comments>http://localhost:4000/5/#comments</comments>
     <pubDate>Mon, 26 Feb 2018 12:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -615,7 +615,7 @@ Mein erster Mitarbeiter hat mir gekündigt! Keine angenehme Erfahrung, glaubt mi
     <link>http://localhost:4000/4/</link>
     <comments>http://localhost:4000/4/#comments</comments>
     <pubDate>Mon, 19 Feb 2018 19:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -661,7 +661,7 @@ Mein erster Mitarbeiter hat mir gekündigt! Keine angenehme Erfahrung, glaubt mi
     <link>http://localhost:4000/3/</link>
     <comments>http://localhost:4000/3/#comments</comments>
     <pubDate>Sun, 04 Feb 2018 19:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -703,7 +703,7 @@ Mein erster Mitarbeiter hat mir gekündigt! Keine angenehme Erfahrung, glaubt mi
     <link>http://localhost:4000/2/</link>
     <comments>http://localhost:4000/2/#comments</comments>
     <pubDate>Mon, 22 Jan 2018 19:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -757,7 +757,7 @@ Mein erster Mitarbeiter hat mir gekündigt! Keine angenehme Erfahrung, glaubt mi
     <link>http://localhost:4000/1/</link>
     <comments>http://localhost:4000/1/#comments</comments>
     <pubDate>Thu, 21 Dec 2017 19:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -799,7 +799,7 @@ Mein erster Mitarbeiter hat mir gekündigt! Keine angenehme Erfahrung, glaubt mi
     <link>http://localhost:4000/0/</link>
     <comments>http://localhost:4000/0/#comments</comments>
     <pubDate>Sun, 03 Dec 2017 12:00:10 +0100</pubDate>
-    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.jpg", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
+    <dc:creator><![CDATA[{"name"=>"Christian Uhl", "avatar"=>"/assets/images/avatar.webp", "bio"=>"Developer, craftsperson and occasional idiot. Senior Engineering Manager at Personio. Endurance runner, climber and cyclist.", "location"=>"München", "github"=>"christianuhlcc", "linkedin"=>"christian-uhl-957a61151", "twitter"=>"chrisuhl", "xing"=>"https://www.xing.com/profile/Christian_Uhl14", "link"=>"https://uhl-steine-scherben.org/blog/"}]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 

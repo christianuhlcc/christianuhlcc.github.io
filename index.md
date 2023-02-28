@@ -2,7 +2,7 @@
 layout: posts
 author_profile: true
 header:
-  image: /assets/images/header.jpeg
+  image: /assets/images/header.webp
 author_profile: true	
 canonical_url: 'https://uhl-steine-scherben.org'
 ---
