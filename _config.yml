@@ -55,10 +55,6 @@ defaults:
       related: true
       author_profile: true
 
-main:
-  - title: "Blog"
-    url: /blog/
-
 # Site Author
 author:
   name             : "Christian Uhl"
@@ -69,7 +65,7 @@ author:
   linkedin         : "christian-uhl-957a61151"
   twitter          : "chrisuhl"
   xing             : "https://www.xing.com/profile/Christian_Uhl14"
-  link             : "https://uhl-steine-scherben.org/blog"
+  link             : "https://uhl-steine-scherben.org/blog/"
 
 exclude:
   - Gemfile
